@@ -1,0 +1,9 @@
+{
+  "name": "isbr_util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "회사 내부 로그 전송 유틸",
+  "author": "DaeGuL2",
+  "license": "MIT"
+}
